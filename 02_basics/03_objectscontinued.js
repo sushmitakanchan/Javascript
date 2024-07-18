@@ -57,8 +57,8 @@ const {courseInstructor : instructor} = course
 console.log(instructor)
 
 //JSON
-{
-    "name" : "Sush",
-    "age" : "23",
-    "gender" : "Female"
-}
+// {
+//     "name" : "Sush",
+//     "age" : "23",
+//     "gender" : "Female"
+// }
